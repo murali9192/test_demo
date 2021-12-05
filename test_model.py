@@ -10,3 +10,4 @@ def model2():
 def model3():
     print ("In Model 3")
 
+print("Accuracy of Model 2 is higher")
